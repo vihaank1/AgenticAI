@@ -8,3 +8,9 @@ db/
 sqlite.db
 *.sqlite3
 .DS_Store
+
+# Local data
+project_telecom/chroma_store/
+project_telecom/data/
+project_shopping_agent/resources/
+project_shopping_agent/store_copy.db
