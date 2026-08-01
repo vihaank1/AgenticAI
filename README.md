@@ -30,6 +30,22 @@ This project contains two AI applications:
 
 ---
 
+## Screenshots
+
+### Shopping Agent
+
+![Shopping Agent](assets/shopping-agent.png)
+
+### Product Recommendation
+
+![Recommendation](assets/shopping-results.png)
+
+### Telecom RAG Chatbot
+
+![Telecom Chatbot](assets/telecom-chatbot.png)
+
+---
+
 ## Tech Stack
 
 - Python
