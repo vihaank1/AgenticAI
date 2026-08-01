@@ -1,5 +1,7 @@
 # Agentic AI Shopping Assistant & Telecom RAG Chatbot
 
+![Application Preview](assets/shopping-agent.png)
+
 An AI-powered application built with LangChain that demonstrates autonomous agents, Retrieval-Augmented Generation (RAG), vector databases, and modern LLM integration.
 
 This project contains two AI applications:
